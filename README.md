@@ -1,6 +1,6 @@
 # Kollywood-Dataset-and-prediction
 
-An unique dataset created using webscraping tools- BeautifulSoup and other libraries.
+An unique dataset created using webscraping tools- BeautifulSoup and other libraries. Dataset consists of all movies released from 1961.
 
 Dataset available [here.](CSVs/1961to2020.csv)
 
